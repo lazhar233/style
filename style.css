@@ -1,0 +1,64 @@
+a :hover{
+    color: rgb(255, 0, 0);
+    text-decoration: underline;
+}
+
+
+body{
+   background-color: rgba(110, 20, 20, 0.333);
+   text-align: center;
+
+}
+
+.ret {
+ 
+    background-size: 100% 20% ; 
+    
+   
+
+}
+.erol{
+    display: inline-block;
+    margin: 0px 210px;
+    
+   
+}
+
+.tu{
+    color: rgb(17, 30, 75);
+     text-align: center;
+     margin-top: 150px;
+     
+    
+}
+
+
+.test{
+    
+   
+    color: blue;
+    margin:  60px;
+    width: 90px;
+     padding: 10px 10px;
+    
+    
+     
+}
+.eroor{
+    width: 120px;
+    padding-left:10PX ;
+    padding-bottom: 5PX;
+      border: 8px solid rgb(8, 6, 22);
+      color: rgb(0, 115, 255);
+   
+
+
+
+}
+
+
+
+
+
+
+
